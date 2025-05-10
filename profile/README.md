@@ -1,15 +1,58 @@
 <div align="center">
   <img src="logo-IoTinkers.jpg" width="200px" alt="IoTinkers Logo">
   <h1>IoTinkers</h1>
+  <p><i>Building the future of IoT, one project at a time.</i></p>
+  <p><i>Construyendo el futuro del IoT, un proyecto a la vez.</i></p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IoTinkers-com/diy-weather-station/main/IMG_5276.JPEG" width="50%" alt="IoTinkers Project Example">
+
+[English](#-about-us) | [Español](#-sobre-nosotros)
+
 </div>
+
+## 🌟 About Us
+
+IoTinkers is a community dedicated to developing Internet of Things (IoT) projects with a focus on DIY solutions and open hardware. Our goal is to create and share projects that are:
+
+- 🛠️ **Replicable**: Complete and documented designs
+- 📖 **Educational**: Focus on learning and understanding
+- 🌱 **Sustainable**: Efficient use of resources and energy
+- 🤝 **Collaborative**: Open to community contributions
+
+## 🔧 Featured Projects
+
+### [DIY Weather Station](https://github.com/IoTinkers-com/diy-weather-station)
+Portable weather station with solar irradiation measurement using ESP32-C6
+- Solar irradiation measurement
+- Battery and solar panel power
+- LCD interface for data visualization
+- WiFi connectivity for data transmission
+
+## 💻 Technologies
+
+We work with open source technologies and free hardware:
+- **Microcontrollers**: Arduino, ESP32, STM32, RP2040
+- **SBCs**: Raspberry Pi, Orange Pi, BeagleBone
+- **Languages**: MicroPython, CircuitPython, C/C++, Python
+- **Communication**: WiFi, BLE, LoRa, MQTT, I2C, SPI
+- **Hardware**: Sensors, actuators, displays, RF modules
+- **Design**: KiCad (PCB), FreeCAD (3D), Fritzing
+
+## 🤝 Contributing
+
+We love collaboration! You can contribute by:
+- Reporting issues
+- Suggesting improvements
+- Sharing your modifications
+- Documenting your experiences
+- Creating tutorials
+
+---
 
 ## 🌟 Sobre Nosotros
 
-IoTinkers es una comunidad dedicada al desarrollo de proyectos de Internet de las Cosas (IoT) con un enfoque en soluciones DIY (Do It Yourself) y hardware abierto. Nuestro objetivo es crear y compartir proyectos que sean:
+IoTinkers es una comunidad dedicada al desarrollo de proyectos de Internet de las Cosas (IoT) con un enfoque en soluciones DIY y hardware abierto. Nuestro objetivo es crear y compartir proyectos que sean:
 
 - 🛠️ **Replicables**: Diseños completos y documentados
 - 📖 **Educativos**: Enfoque en el aprendizaje y la comprensión
