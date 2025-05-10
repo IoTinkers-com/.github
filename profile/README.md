@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="logo-IoTinkers.jpg" width="200px" alt="IoTinkers Logo">
-  <h1>IoTinkers</h1>
+  <img src="logo-IoTinkers.jpg" width="400px" alt="IoTinkers Logo">
   <p><i>Building the future of IoT, one project at a time.</i></p>
   <p><i>Construyendo el futuro del IoT, un proyecto a la vez.</i></p>
 </div>
