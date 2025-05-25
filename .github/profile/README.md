@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="logo-IoTinkers.jpg" width="400px" alt="IoTinkers Logo">
-  <p><i>Building the future of IoT, one project at a time.</i></p>
-  <p><i>Construyendo el futuro del IoT, un proyecto a la vez.</i></p>
-</div>
+# IoTinkers
 
-<div align="center">
+Building the future of IoT, one project at a time.
 
-[English](#-about-us) | [Español](#-sobre-nosotros)
+Construyendo el futuro del IoT, un proyecto a la vez.
 
-</div>
+[English](#about-us) | [Español](#sobre-nosotros)
 
 ## 🌟 About Us
 
