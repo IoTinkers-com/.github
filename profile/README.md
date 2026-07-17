@@ -89,6 +89,8 @@ Nuestros proyectos generalmente utilizan:
 
 - GitHub: [@IoTinkers-com](https://github.com/IoTinkers-com)
 - Sitio Web: [IoTinkers.com](https://IoTinkers.com)
+- Discord: [IoTinkers Community](https://discord.gg/iotinkers)
+- Email: contact@iotinkers.com
 
 ---
 
