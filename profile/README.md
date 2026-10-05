@@ -18,6 +18,7 @@ IoTinkers is a community dedicated to developing Internet of Things (IoT) projec
 ## 🔧 Our Projects
 
 <!-- PROJECTS_LIST_EN_START -->
+- 🌐 [**veio**](https://github.com/IoTinkers-com/veio) —  (`Shell`)
 - 🌐 [**Dance-Video-Analyzer**](https://github.com/IoTinkers-com/Dance-Video-Analyzer) — Pose estimation, zapateo detection, and broadcast-style metrics rendering for Cueca dance videos (`Python`)
 - 🌐 [**watchi**](https://github.com/IoTinkers-com/watchi) — AI-powered fraud detection system that analyzes messages and images for phishing threats using machine learning and multiple threat intelligence sources. (`PHP`)
 - 🌐 [**opentrack-sports**](https://github.com/IoTinkers-com/opentrack-sports) — Sports performance tracking platform for emerging economies (`Python`)
@@ -59,6 +60,7 @@ IoTinkers es una comunidad dedicada al desarrollo de proyectos de Internet de la
 ## 🔧 Nuestros Proyectos
 
 <!-- PROJECTS_LIST_ES_START -->
+- 🌐 [**veio**](https://github.com/IoTinkers-com/veio) —  (`Shell`)
 - 🌐 [**Dance-Video-Analyzer**](https://github.com/IoTinkers-com/Dance-Video-Analyzer) — Pose estimation, zapateo detection, and broadcast-style metrics rendering for Cueca dance videos (`Python`)
 - 🌐 [**watchi**](https://github.com/IoTinkers-com/watchi) — AI-powered fraud detection system that analyzes messages and images for phishing threats using machine learning and multiple threat intelligence sources. (`PHP`)
 - 🌐 [**opentrack-sports**](https://github.com/IoTinkers-com/opentrack-sports) — Sports performance tracking platform for emerging economies (`Python`)
